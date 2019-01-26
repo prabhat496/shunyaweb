@@ -1,4 +1,4 @@
-baseurl = "http://teamshunya.in/"
+baseurl = "https://prabhat496.github.io/shunyaweb/"
 title = "Team Shunya"
 theme = "dimension"
 publishDir= "docs"

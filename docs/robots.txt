@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: http://teamshunya.in//sitemap.xml
+Sitemap: https://prabhat496.github.io/shunyaweb//sitemap.xml
