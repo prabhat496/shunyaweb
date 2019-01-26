@@ -1,6 +1,7 @@
 baseurl = "http://teamshunya.in/"
 title = "Team Shunya"
 theme = "dimension"
+publishDir= "docs"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 enableRobotsTXT = true
